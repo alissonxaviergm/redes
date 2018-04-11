@@ -1,5 +1,8 @@
-Identifique a sua turma pelo ano atual, inicial da turma e número dela.   
+# Lista de atividades
 
-Exemplo:  
-* s421-2018-1 para subsequente 421 do ano 2018.   
-* s421-2018-1 para integrado 421 do ano 2018.   
+Atividade 01 (entrega 10/04): [Introdução às Redes de Computadores](https://docs.google.com/document/d/1BT5nUNMFeFQfyovH18r07zeaC-jYUYTL1GpiRfH-WDQ/edit?usp=sharing)  
+
+
+### Material de Apoio  
+[Slides](https://docs.google.com/presentation/d/1rbwuekduJZTNR3DxE4xZ0gyHwBOHmrkAjdqGz09-kPo/edit?usp=sharing)  
+[Video Github](https://www.youtube.com/watch?v=zg8JcK1dgMI)   
